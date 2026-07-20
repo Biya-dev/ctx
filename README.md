@@ -4,7 +4,7 @@
 
 Generate architecture, dependencies, and AI-ready context from any repository.
 
-![ctx demo](docs/demo.svg)
+![ctx demo](https://raw.githubusercontent.com/Biya-dev/ctx/master/docs/demo.svg)
 
 ## Why ctx?
 
