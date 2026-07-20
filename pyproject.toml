@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "fswitch-ctx"
-version = "0.1.1"
+version = "0.1.2"
 description = "Understand any codebase in 10 seconds."
 readme = "README.md"
 license = "MIT"

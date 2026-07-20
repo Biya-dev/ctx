@@ -4,7 +4,7 @@
 
 Generate architecture, dependencies, and AI-ready context from any repository.
 
-![ctx demo](docs/demo.png)
+![ctx demo](docs/demo.svg)
 
 ## Why ctx?
 

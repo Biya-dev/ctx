@@ -162,7 +162,7 @@ def render_scan(
         console.print(layers_display)
 
     console.print()
-    console.print("  [dim]⭐ Enjoying ctx? Give us a star on GitHub: [link=https://github.com/Biya-dev/ctx]https://github.com/Biya-dev/ctx[/link][/]")
+    console.print("  [dim]* Enjoying ctx? Give us a star on GitHub: [link=https://github.com/Biya-dev/ctx]https://github.com/Biya-dev/ctx[/link][/]")
     console.print()
 
 

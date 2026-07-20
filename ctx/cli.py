@@ -165,7 +165,7 @@ def export(
     console.print(f"  [dim]Target: {target}[/]")
     console.print(f"  [dim]Optimized for: {_target_label(target)}[/]")
     console.print()
-    console.print("  [dim]⭐ Enjoying ctx? Give us a star on GitHub: [link=https://github.com/Biya-dev/ctx]https://github.com/Biya-dev/ctx[/link][/]")
+    console.print("  [dim]* Enjoying ctx? Give us a star on GitHub: [link=https://github.com/Biya-dev/ctx]https://github.com/Biya-dev/ctx[/link][/]")
     console.print()
 
 
