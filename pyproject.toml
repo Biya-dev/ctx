@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ctx-cli"
+name = "fswitch-ctx"
 version = "0.1.0"
 description = "Understand any codebase in 10 seconds."
 readme = "README.md"

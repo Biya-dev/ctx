@@ -21,7 +21,7 @@ Without project structure, architecture, and key files, coding assistants produc
 ## Install
 
 ```bash
-pip install ctx-cli
+pip install fswitch-ctx
 ```
 
 ## How it works
