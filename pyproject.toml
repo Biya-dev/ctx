@@ -60,9 +60,9 @@ dev = [
 ctx = "ctx.cli:_cli_entry"
 
 [project.urls]
-Homepage = "https://github.com/bijayachauhan/ctx"
-Repository = "https://github.com/bijayachauhan/ctx"
-Issues = "https://github.com/bijayachauhan/ctx/issues"
+Homepage = "https://github.com/Biya-dev/ctx"
+Repository = "https://github.com/Biya-dev/ctx"
+Issues = "https://github.com/Biya-dev/ctx/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["ctx"]
